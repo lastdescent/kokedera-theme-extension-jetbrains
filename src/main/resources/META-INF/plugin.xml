@@ -1,0 +1,32 @@
+<idea-plugin>
+    <id>com.seventhlayer.kokedera</id>
+    <name>Kokedera — Japanese Moss Temple Theme</name>
+    <vendor email="hello@7thlayer.com" url="https://github.com/7th-Layer">7th Layer</vendor>
+
+    <description><![CDATA[
+    <h2>Kokedera — Japanese Moss Temple Theme</h2>
+    <p>A meditative dark theme inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto.
+    Deep forest greens, weathered stone, and soft lantern light.</p>
+
+    <h3>Philosophy</h3>
+    <p>Rooted in 侘寂 (Wabi-sabi) — beauty in imperfection, transience, and incompleteness.
+    No color shouts or demands attention. A quiet space where code can breathe.</p>
+
+    <h3>Color Metaphors</h3>
+    <ul>
+        <li><b>Editor background</b> — Deep shade beneath ancient trees</li>
+        <li><b>Keywords</b> — Sunlight catching the brightest moss</li>
+        <li><b>Strings</b> — Warm amber of shōji lanterns at dusk</li>
+        <li><b>Comments</b> — Weathered stone inscriptions softened by time</li>
+        <li><b>Types</b> — Dark green cedars standing tall</li>
+        <li><b>Functions</b> — Fresh bamboo swaying in a gentle breeze</li>
+    </ul>
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="com.seventhlayer.kokedera.theme"
+                       path="/themes/kokedera.theme.json"/>
+    </extensions>
+</idea-plugin>
