@@ -1,10 +1,10 @@
 <idea-plugin>
     <id>com.seventhlayer.kokedera</id>
-    <name>Kokedera — Japanese Moss Temple Theme</name>
-    <vendor email="hello@7thlayer.com" url="https://github.com/7th-Layer">7th Layer</vendor>
+    <name>Kokedera - Japanese Moss Temple Theme</name>
+    <vendor email="office@7thlayer.ventures" url="https://kokedera.style">7th Layer</vendor>
 
     <description><![CDATA[
-    <h2>Kokedera — Japanese Moss Temple Theme</h2>
+    <h2>Kokedera - Japanese Moss Temple Theme</h2>
     <p>A meditative dark theme inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto.
     Deep forest greens, weathered stone, and soft lantern light.</p>
 
