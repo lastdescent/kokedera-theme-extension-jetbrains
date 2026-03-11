@@ -39,31 +39,6 @@ When you code with Kokedera, you sit in that garden:
 5. Go to **Settings** → **Appearance & Behavior** → **Appearance**
 6. Select **Kokedera** from the Theme dropdown
 
-### From Disk
-
-1. Download the latest release (`kokedera-theme-x.x.x.zip`) from
-   [Releases](https://github.com/7th-Layer/kokedera-theme-extension-jetbrains/releases)
-
-2. In your JetBrains IDE, go to **Settings** → **Plugins** → ⚙️ → **Install Plugin from Disk...**
-
-3. Select the downloaded `.zip` file
-
-4. Restart the IDE and select the theme from **Settings** → **Appearance**
-
-### Build from Source
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/7th-Layer/kokedera-theme-extension-jetbrains.git
-   ```
-
-2. Build the plugin:
-   ```bash
-   ./gradlew buildPlugin
-   ```
-
-3. The plugin ZIP will be at `build/distributions/kokedera-theme-x.x.x.zip`
-
 ## Compatibility
 
 - IntelliJ IDEA 2023.3+
