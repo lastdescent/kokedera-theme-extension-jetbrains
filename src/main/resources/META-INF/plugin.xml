@@ -28,5 +28,6 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.seventhlayer.kokedera.theme"
                        path="/themes/kokedera.theme.json"/>
+        <bundledColorScheme id="Kokedera" path="/themes/Kokedera"/>
     </extensions>
 </idea-plugin>
