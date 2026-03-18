@@ -41,10 +41,14 @@ IntelliJ IDEA 2023.3+ and all JetBrains IDEs based on the IntelliJ Platform (Web
 | Errors | `#c45a5a` |
 | Warnings | `#bfa243` |
 
+## Pair with the icon pack
+
+- **Kokedera Icons** — matching file & folder icons (search "Kokedera Icons" in the Marketplace)
+
 ## Also available for
 
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=7th-Layer.kokedera-theme)
-- [Zed](https://zed.dev/extensions/kokedera-theme) (+ [icon pack](https://github.com/7th-Layer/kokedera-icons-extension-zed))
+- [Zed](https://zed.dev/extensions/kokedera-theme)
 
 ## License
 
