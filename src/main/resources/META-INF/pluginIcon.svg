@@ -1,3 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
-  <image width="40" height="40" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEpUlEQVR4nK1YSW/bRhTWP7BmhssMF62WJVG7FO+ON9kUJVqy4z2B7SR1grSXpu0xKOzGSBu0cYqkh25AD7m0vbQIgh4L9K8VQ9OySA0pygnwIFASZ773ve+9xzcMQRFQw9C+sAxhiJy/QGyZ6G0YXm3Sv1x0W8jermcNXWZhs3f33osu6fev9yu2brgA9gAAkNCbgK/XntS9/iI9wI4QuVxjMugzh3NdToMWhiD2iKpXtN+TtNgT6usAsNgA33uAMwZWcnkBDwoyCzvMULS7T08iX2Y1UxXXAtvCPj4B4QKYlTeio2pCblVc2R9Ys6ACEboVwjDkJ9I1oh3wfuwEZvBjJpGzvntz8+p6cOcSh/AaYYBorMKIACRBJAF6gel1AOGBN7BP1VuQnAzlnJSpj6kFmY8gTkXRqppZSkkZzCmIekaouRhTYByEcT9RGUJMWUJhJN/M3n17VGhpvISgODLzaOrOn/uJG1GOgHgtSkYFTmKVA/YFZndmDHFC0BrZQjtXbOcWPps7+vvg5sfTle1ScSNvfN24/cf+5GGttle58/u+froixjhLjgFkQoPpEijE+PTSWM7Q8o3swuPZe//cXfhkttzJF9fyzWf64V8H1Z1yqVMorRfyTQ0nBdTlx1IXDga+1AlJ0NIpTEPdym7+uLH8xXzjdCVSUqaPJ5vPDTHG8wriqBZW9vkUFbZ7iz+wrQ2wax/wESRnSXY5de/dUfvlWqwaUXKSpo8pGkEE8CqChJ3D0Iux9Qz3eY7a6SpEEEkIxoneeWEqGcJLiJNBdbe0/qo9fljDowKvIjurXRUluvkE0BgDXkGJiWihpRVNbf7Tub03OzMPJycOqxNHtcmPbkw/mGi/bD3899j4akXOYE6mdcU0IITteLA7lzu5EMJg6nj84O3B5q8b279tdV6b5nlr9aQ+/3hu6v5EaSM/NpucPKo9+u9BZbsI+BFbo95SFq+VXJwER6fjlc3i1EGt1MnFaxEljSu7xepumcQ4HOcKTa1gZsdvV1KziUDtGvcBI3cG2hXFq5yUFIyz1c5rM1qSSZJfO2+a3xkkwaeXRvfe7Gz9ckvJEl7hEG0svhqLwTS2SauIpET9ab39ylTzkpLBxrOV+peLckqMlZXOD23jG11O+wkMhwh1L7AMSVLQT+vmuaFmiZQU9Kf1+pNFEuMjmmR+39LP6mRUcNN1TSCiL7A1vrhrEUkUeOVkuf1Tu7SZL3RyrRfNxvPVvJktbxXWf17Tz5ZJSmTG2RFwbPsRlDGSII7zy08WG9/qWiOtGWNaI51rZHJGRjPSxrl+8/MZMcru0v1FDIMDQwyECB8fj8YqqiAj+oiUIC8jTkKCysWqqqJJvMwxUV2DA7QqzWsQcDcyIITpAx9DjnYrZA/FlvucRP1gnLXYOwMn4/75kvkoHX7gvVwIrz6HyuqBwH6nLNboPtzM9QEt5A7IMCN00LMku45dEnYPiYGxhznKwi6xi2Nql+5w4RoAyZxZcX+o3/OIFizCkB3qDyInDgoMe98QBNja49VFv4vu3gAvf7SHvWCoPsfoa5mlMfMdiBPVMQ3SCNmnzaG9uXzz8T+98clEN/UO4AAAAABJRU5ErkJggg=="/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="400" height="400">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="200" height="200" fill="#182018" />
+
+  <text 
+    x="100" 
+    y="135" 
+    font-family="sans-serif" 
+    font-size="100" 
+    font-weight="bold" 
+    fill="#88d898" 
+    text-anchor="middle" 
+    filter="url(#glow)">
+    苔
+  </text>
 </svg>
