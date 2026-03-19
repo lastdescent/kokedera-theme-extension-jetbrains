@@ -43,7 +43,7 @@ IntelliJ IDEA 2023.3+ and all JetBrains IDEs based on the IntelliJ Platform (Web
 
 ## Pair with the icon pack
 
-- **Kokedera Icons** — matching file & folder icons (search "Kokedera Icons" in the Marketplace)
+- **[Kokedera Icons](https://plugins.jetbrains.com/plugin/30777-kokedera-icons--japanese-moss-temple-icons)** — matching file & folder icons
 
 ## Also available for
 
