@@ -61,13 +61,13 @@
     <!-- Comments -->
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5a6b50" />
+        <option name="FOREGROUND" value="4a5a44" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5a6b50" />
+        <option name="FOREGROUND" value="4a5a44" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -110,7 +110,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="c49a5c" />
+        <option name="FOREGROUND" value="9a7abf" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -677,7 +677,7 @@
     </option>
     <option name="JS.REGEXP">
       <value>
-        <option name="FOREGROUND" value="bfa243" />
+        <option name="FOREGROUND" value="9a7abf" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
@@ -868,13 +868,13 @@
     </option>
     <option name="JSON.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5a6b50" />
+        <option name="FOREGROUND" value="4a5a44" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JSON.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5a6b50" />
+        <option name="FOREGROUND" value="4a5a44" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -953,22 +953,22 @@
     <!-- Language-specific: Regex -->
     <option name="REGEXP.META">
       <value>
-        <option name="FOREGROUND" value="bfa243" />
+        <option name="FOREGROUND" value="9a7abf" />
       </value>
     </option>
     <option name="REGEXP.CHAR_CLASS">
       <value>
-        <option name="FOREGROUND" value="3d9970" />
+        <option name="FOREGROUND" value="9a7abf" />
       </value>
     </option>
     <option name="REGEXP.QUOTE">
       <value>
-        <option name="FOREGROUND" value="d4c88e" />
+        <option name="FOREGROUND" value="9a7abf" />
       </value>
     </option>
     <option name="REGEXP.QUANTIFIER">
       <value>
-        <option name="FOREGROUND" value="c49a5c" />
+        <option name="FOREGROUND" value="9a7abf" />
       </value>
     </option>
 
