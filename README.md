@@ -2,6 +2,8 @@
 
 *A dark color theme for [JetBrains IDEs](https://www.jetbrains.com), inspired by the moss temple garden in Kyoto.*
 
+> **[kokedera.style](https://kokedera.style)** — visit the website for a full visual walkthrough of the palette, syntax highlighting, and icons.
+
 ---
 
 ## About
@@ -21,29 +23,9 @@
 
 IntelliJ IDEA 2023.3+ and all JetBrains IDEs based on the IntelliJ Platform (WebStorm, PyCharm, GoLand, PhpStorm, Rider, CLion, RubyMine, DataGrip, etc.)
 
-## Palette
-
-| Role | Hex |
-|------|-----|
-| Background | `#121a11` |
-| Surface | `#151e14` |
-| Selection | `#2a3d26` |
-| Border | `#3a4a35` |
-| Text | `#c8d8b8` |
-| Keywords | `#4ca64c` |
-| Strings | `#d4c88e` |
-| Functions | `#8fbf6f` |
-| Types | `#3d9970` |
-| Variables | `#a3be8c` |
-| Numbers | `#c49a5c` |
-| Comments | `#5a6b50` |
-| Cursor | `#5ae65a` |
-| Errors | `#c45a5a` |
-| Warnings | `#bfa243` |
-
 ## Pair with the icon pack
 
-- **[Kokedera Icons](https://plugins.jetbrains.com/plugin/30777-kokedera-icons--japanese-moss-temple-icons)** — matching file & folder icons
+- **[Kokedera Icons](https://plugins.jetbrains.com/plugin/30777-kokedera-icons--japanese-moss-temple-icons)** — 128+ matching file & folder icons
 
 ## Also available for
 
@@ -53,7 +35,3 @@ IntelliJ IDEA 2023.3+ and all JetBrains IDEs based on the IntelliJ Platform (Web
 ## License
 
 [MIT](LICENSE)
-
----
-
-[kokedera.style](https://kokedera.style)
