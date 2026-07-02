@@ -8,7 +8,7 @@
 
 ## About
 
-**Kokedera** (苔寺, *Temple of Moss*) is a meditative dark theme inspired by **Saihō-ji** — the ancient moss garden in Kyoto. The palette grows from a single source: the patient green of moss, accented by lantern amber, cedar teal, and stone gray.
+**Kokedera** (苔寺, *Temple of Moss*) is a meditative dark color theme inspired by **Saihō-ji** — the ancient moss garden in Kyoto. The palette grows from a single source: the patient green of moss, accented by lantern amber, cedar teal, and stone gray.
 
 ## Installation
 
@@ -23,9 +23,9 @@
 
 IntelliJ IDEA 2023.3+ and all JetBrains IDEs based on the IntelliJ Platform (WebStorm, PyCharm, GoLand, PhpStorm, Rider, CLion, RubyMine, DataGrip, etc.)
 
-## Pair with the icon pack
+## Pair with the icon theme
 
-- **[Kokedera Icons](https://plugins.jetbrains.com/plugin/30777-kokedera-icons--japanese-moss-temple-icons)** — 151 matching file & folder icons
+- **[Kokedera Icons](https://plugins.jetbrains.com/plugin/30777-kokedera-icons--japanese-moss-temple-icons)** — the matching file icon theme
 
 ## Also available for
 
