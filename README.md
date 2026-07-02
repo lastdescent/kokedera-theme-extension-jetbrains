@@ -25,7 +25,7 @@ IntelliJ IDEA 2023.3+ and all JetBrains IDEs based on the IntelliJ Platform (Web
 
 ## Pair with the icon pack
 
-- **[Kokedera Icons](https://plugins.jetbrains.com/plugin/30777-kokedera-icons--japanese-moss-temple-icons)** — 128+ matching file & folder icons
+- **[Kokedera Icons](https://plugins.jetbrains.com/plugin/30777-kokedera-icons--japanese-moss-temple-icons)** — 151 matching file & folder icons
 
 ## Also available for
 

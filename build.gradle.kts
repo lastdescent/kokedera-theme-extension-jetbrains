@@ -1,6 +1,6 @@
 plugins {
     id("java")
-    id("org.jetbrains.intellij.platform") version "2.2.1"
+    id("org.jetbrains.intellij.platform") version "2.17.0"
 }
 
 group = providers.gradleProperty("pluginGroup").get()
@@ -16,7 +16,6 @@ repositories {
 dependencies {
     intellijPlatform {
         create(providers.gradleProperty("platformType"), providers.gradleProperty("platformVersion"))
-        instrumentationTools()
     }
 }
 
@@ -25,7 +24,8 @@ intellijPlatform {
         name = providers.gradleProperty("pluginName")
         ideaVersion {
             sinceBuild = providers.gradleProperty("pluginSinceBuild")
-            untilBuild = providers.gradleProperty("pluginUntilBuild")
+            // No untilBuild: the plugin stays compatible with all future IDE versions
+            untilBuild = provider { null }
         }
     }
 
@@ -36,6 +36,6 @@ intellijPlatform {
 
 tasks {
     wrapper {
-        gradleVersion = "8.11.1"
+        gradleVersion = "9.1.0"
     }
 }
