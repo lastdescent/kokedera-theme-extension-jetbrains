@@ -1,22 +1,21 @@
 <idea-plugin>
     <id>com.seventhlayer.kokedera</id>
-    <name>Kokedera - Japanese Moss Temple Theme</name>
+    <name>Kokedera - Moss Temple Theme</name>
     <vendor email="office@7thlayer.ventures" url="https://kokedera.style">lastdescent</vendor>
 
     <description><![CDATA[
-    <h2>Kokedera - Japanese Moss Temple Theme</h2>
-    <p>A meditative dark color theme inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto.
-    Deep forest greens, weathered stone, and soft lantern light.</p>
+    <h2>Kokedera - Moss Temple Theme</h2>
+    <p>A dark moss-temple color theme — forest greens, weathered stone, soft lantern light.</p>
 
     <h3>Philosophy</h3>
-    <p>Rooted in 侘寂 (Wabi-sabi) — beauty in imperfection, transience, and incompleteness.
+    <p>Rooted in restraint — beauty in imperfection, transience, and the incomplete.
     No color shouts or demands attention. A quiet space where code can breathe.</p>
 
     <h3>Color Metaphors</h3>
     <ul>
         <li><b>Editor background</b> — Deep shade beneath ancient trees</li>
         <li><b>Keywords</b> — Sunlight catching the brightest moss</li>
-        <li><b>Strings</b> — Warm amber of shōji lanterns at dusk</li>
+        <li><b>Strings</b> — Warm amber of paper lanterns at dusk</li>
         <li><b>Comments</b> — Weathered stone inscriptions softened by time</li>
         <li><b>Types</b> — Dark green cedars standing tall</li>
         <li><b>Functions</b> — Fresh bamboo swaying in a gentle breeze</li>
