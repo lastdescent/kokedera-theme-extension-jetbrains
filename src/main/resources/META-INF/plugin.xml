@@ -5,7 +5,7 @@
 
     <description><![CDATA[
     <h2>Kokedera - Moss Temple Theme</h2>
-    <p>A dark moss-temple color theme — forest greens, weathered stone, soft lantern light.</p>
+    <p>Moss-temple color themes — nine variants across the day, the seasons, and the weather of one garden.</p>
 
     <h3>Philosophy</h3>
     <p>Rooted in restraint — beauty in imperfection, transience, and the incomplete.
@@ -25,8 +25,32 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.seventhlayer.kokedera.theme"
-                       path="/themes/kokedera.theme.json"/>
-        <bundledColorScheme id="Kokedera" path="/themes/Kokedera"/>
+        <themeProvider id="com.seventhlayer.kokedera.morning"
+                       path="/themes/kokedera-morning.theme.json"/>
+        <bundledColorScheme id="Kokedera Morning" path="/themes/KokederaMorning"/>
+        <themeProvider id="com.seventhlayer.kokedera.dusk"
+                       path="/themes/kokedera-dusk.theme.json"/>
+        <bundledColorScheme id="Kokedera Dusk" path="/themes/KokederaDusk"/>
+        <themeProvider id="com.seventhlayer.kokedera.night"
+                       path="/themes/kokedera-night.theme.json"/>
+        <bundledColorScheme id="Kokedera Night" path="/themes/KokederaNight"/>
+        <themeProvider id="com.seventhlayer.kokedera.spring"
+                       path="/themes/kokedera-spring.theme.json"/>
+        <bundledColorScheme id="Kokedera Spring" path="/themes/KokederaSpring"/>
+        <themeProvider id="com.seventhlayer.kokedera.summer"
+                       path="/themes/kokedera-summer.theme.json"/>
+        <bundledColorScheme id="Kokedera Summer" path="/themes/KokederaSummer"/>
+        <themeProvider id="com.seventhlayer.kokedera.autumn"
+                       path="/themes/kokedera-autumn.theme.json"/>
+        <bundledColorScheme id="Kokedera Autumn" path="/themes/KokederaAutumn"/>
+        <themeProvider id="com.seventhlayer.kokedera.winter"
+                       path="/themes/kokedera-winter.theme.json"/>
+        <bundledColorScheme id="Kokedera Winter" path="/themes/KokederaWinter"/>
+        <themeProvider id="com.seventhlayer.kokedera.rain"
+                       path="/themes/kokedera-rain.theme.json"/>
+        <bundledColorScheme id="Kokedera Rain" path="/themes/KokederaRain"/>
+        <themeProvider id="com.seventhlayer.kokedera.mist"
+                       path="/themes/kokedera-mist.theme.json"/>
+        <bundledColorScheme id="Kokedera Mist" path="/themes/KokederaMist"/>
     </extensions>
 </idea-plugin>

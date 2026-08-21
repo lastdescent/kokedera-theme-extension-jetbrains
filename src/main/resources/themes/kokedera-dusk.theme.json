@@ -1,8 +1,8 @@
 {
-  "name": "Kokedera",
+  "name": "Kokedera Dusk",
   "dark": true,
   "author": "lastdescent",
-  "editorScheme": "/themes/Kokedera.xml",
+  "editorScheme": "/themes/KokederaDusk.xml",
   "ui": {
     "*": {
       "arc": 8,
