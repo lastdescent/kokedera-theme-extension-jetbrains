@@ -1,7 +1,7 @@
 {
   "name": "Kokedera Dusk",
   "dark": true,
-  "author": "lastdescent",
+  "author": "Florian Mühlhans",
   "editorScheme": "/themes/KokederaDusk.xml",
   "ui": {
     "*": {

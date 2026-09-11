@@ -1,7 +1,7 @@
 {
   "name": "Kokedera Rain",
   "dark": true,
-  "author": "lastdescent",
+  "author": "Florian Mühlhans",
   "editorScheme": "/themes/KokederaRain.xml",
   "ui": {
     "*": {
